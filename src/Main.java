@@ -35,7 +35,7 @@ public class Main {
         graph.addEdge("Shymkent", "Atyrau");
         graph.addEdge("Atyrau", "Astana");
         graph.addEdge("Almaty", "Shymkent");
-        graph.addEdge("Shymkent", "Atana");
+        graph.addEdge("Shymkent", "Astana");
         graph.addEdge("Astana", "Kostanay");
         graph.addEdge("Shymkent", "Kyzylorda");
     }
